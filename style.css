@@ -1,0 +1,85 @@
+body
+{
+	font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.logo{
+	width: 100px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+header{
+	margin-left: 30px;
+}
+.banner{
+	margin-top: 30px;
+	margin-left: 30px;
+}
+a{
+	font-size: 22pt;
+	text-decoration: none;
+}
+.active a {
+	color: red;
+}
+.face{
+	width: 15px;
+	margin-right: 65px;
+}
+.youtube{
+	width: 25px;
+}
+footer{
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.hello{
+	display:inline-block;
+	color: white;
+	margin-top: 30px;
+	margin-left: 30px;
+	font-size: 48pt;
+	background-color: blue;
+}
+.maisi{
+	margin-top: 5px;
+	display: block;
+	margin-left: 30px;
+	font-size: 20pt;
+	color: blue;
+}
+.art{
+	margin-left: 30px;
+	width: 300px;
+}
+.paragraph
+{
+	margin-left: 30px;
+	width: 600px;
+	display: block;
+	vertical-align: top;
+}
+h1{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: 30px;
+	font-size: 20pt;
+}
+p{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.kontakt{
+	margin-top: 150px;
+	margin-left: 500px;
+	color: blue;
+}
+.list{
+	margin-left: 500px;
+	margin-bottom: 250px;
+}
+span{
+	color: grey;
+}
+
+
